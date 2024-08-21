@@ -1,0 +1,19 @@
+{
+    "name": "project/webthree",
+    "autoload": {
+        "psr-4": {
+            "Project\\Webthree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gautambnsl",
+            "email": "bansalgautam005@gmail.com"
+        }
+    ],
+    "require": {
+        "web3p/web3.php": "^0.3.2",
+        "guzzlehttp/guzzle": "^7.9",
+        "amphp/amp": "^3.0"
+    }
+}
